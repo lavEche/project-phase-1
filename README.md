@@ -50,9 +50,10 @@ df_gp_movie.first()
 df_merged_movie = df_gp_movie.first()
 df_merged_movie
 # Visualizations
-> ![C:\Users\lavender\Pictures\Screenshots\Screenshot (179).png](images/sample_page_screenshot.png)
-> ![C:\Users\lavender\Pictures\Screenshots\Screenshot (180).png](images/sample_page_screenshot.png)
-> ![C:\Users\lavender\Pictures\Screenshots\Screenshot (181).png](images/sample_page_screenshot.png)
+![Screenshot (179)](https://user-images.githubusercontent.com/124572155/224480813-8c27d6da-e00c-42df-922b-a8e06a64c5ba.png)
+![Screenshot (180)](https://user-images.githubusercontent.com/124572155/224480815-3f100556-8593-4b72-b326-da6c138327a7.png)
+![Screenshot (181)](https://user-images.githubusercontent.com/124572155/224480818-49e8634e-4f74-4475-ad80-da30713b30ef.png)
+
 # Conclusion
 > The merged_df contains information about movies including their budget, revenue, release dates, genres, and production companies. The dataset contains 5,711 movies released between 2010 and 2020. Some of the variables in the dataset include id, original_title, genres, release_date, production_budget, worldwide_gross, vote_count, vote_average, popularity, production_companies, release_year, release_month, and profits.
 # Findings
