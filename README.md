@@ -55,6 +55,16 @@ df_merged_movie
 ![Screenshot (181)](https://user-images.githubusercontent.com/124572155/224480818-49e8634e-4f74-4475-ad80-da30713b30ef.png)
 
 # Conclusion
+> Project will consider these datasets: 'tn.movie_budgets.csv.gz' and 'tmdb.movies.csv.gz' and 'imdb.title.basics.csv.gz'
+> The bottom line for the "success" of a film is the money it makes (profits). Variables that may influence the "success" of a film:
+
+
+1. Worldwide Gross Revenue
+2. Vote Count
+3. Popularity
+4. Release Date
+5. Movie
+6. Genre_ids
 > The merged_df contains information about movies including their budget, revenue, release dates, genres, and production companies. The dataset contains 5,711 movies released between 2010 and 2020. Some of the variables in the dataset include id, original_title, genres, release_date, production_budget, worldwide_gross, vote_count, vote_average, popularity, production_companies, release_year, release_month, and profits.
 # Findings
 > 1.  The average production budget of movies is around 44 million dollars, with a standard deviation of around 47 million dollars.
